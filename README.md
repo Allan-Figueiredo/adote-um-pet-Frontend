@@ -1,10 +1,12 @@
-# 🐾 Get A Pet - Plataforma de Adoção de Animais
+# 🐾 Adote um Pet - Plataforma de Adoção de Animais
 
 <div align="center">
 
-![Get A Pet Logo](frontend/src/assets/img/logo.png)
 
 **Uma plataforma completa para adoção responsável de animais de estimação**
+
+<img width="1888" height="937" alt="image" src="https://github.com/user-attachments/assets/352d273e-ba25-4c78-9900-99cd18b5a60b" />
+
 
 [![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-green.svg)](https://nodejs.org/)
@@ -17,7 +19,7 @@
 
 ## 🎯 Sobre o Projeto
 
-O **Get A Pet** é uma plataforma web completa desenvolvida para facilitar a adoção responsável de animais de estimação. A aplicação conecta pessoas que desejam adotar um pet com aquelas que precisam encontrar um lar amoroso para seus animais.
+O **Adote um pet** é uma plataforma web completa desenvolvida para facilitar a adoção responsável de animais de estimação. A aplicação conecta pessoas que desejam adotar um pet com aquelas que precisam encontrar um lar amoroso para seus animais.
 
 ### 🎨 Características Principais
 
