@@ -216,23 +216,4 @@ A aplicação estará disponível em `http://localhost:3000`
 
 ---
 
-## 📝 Licença
-
-Este projeto está sob a licença ISC. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 👨‍💻 Desenvolvedor
-
-**Allan** - Desenvolvedor Full Stack
-
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-
----
-
-<div align="center">
-
-**⭐ Se este projeto te ajudou, considere dar uma estrela!**
-
 </div> 
