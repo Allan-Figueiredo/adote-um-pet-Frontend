@@ -15,19 +15,6 @@
 
 ---
 
-## 📋 Índice
-
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Como Executar](#-como-executar)
-- [API Endpoints](#-api-endpoints)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
-
----
-
 ## 🎯 Sobre o Projeto
 
 O **Get A Pet** é uma plataforma web completa desenvolvida para facilitar a adoção responsável de animais de estimação. A aplicação conecta pessoas que desejam adotar um pet com aquelas que precisam encontrar um lar amoroso para seus animais.
@@ -197,22 +184,6 @@ A aplicação estará disponível em `http://localhost:3000`
 | `PATCH` | `/pets/:id` | Atualizar pet |
 | `DELETE` | `/pets/:id` | Remover pet |
 | `PATCH` | `/pets/:id/adopt` | Adotar pet |
-
----
-
-## 🤝 Contribuição
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-### Padrões de Código
-- Use ESLint e Prettier
-- Siga as convenções do React
-- Mantenha o código limpo e documentado
-- Teste suas funcionalidades
 
 ---
 
